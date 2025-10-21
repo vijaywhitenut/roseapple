@@ -1,0 +1,26 @@
+{
+  "name": "Bricks Breaker",
+  "short_name": "Bricks",
+  "description": "Classic brick breaker game",
+  "start_url": "./index.html",
+  "id": "/roseapple/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#000000ff",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "512 x 512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "512 x 512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
